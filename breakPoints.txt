@@ -1,0 +1,6 @@
+1. Extra small			 100%
+2.Small			sm	>=540px
+3.Medium		md	>=720px
+4.Large			lg	>=960px
+5.Extra Large		xl	>=1140px
+6.Extra Extra Large	xxl	>=1320px
